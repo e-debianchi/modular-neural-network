@@ -1,4 +1,4 @@
-# 🧠 Experimenting with Modularity in Deep Learning
+# Experimenting with Modularity in Deep Learning
 
 This repository contains the code and documentation for a university project in the course **Neural Networks for Data Science Applications**. The project focuses on building, training, and evaluating neural networks for **3D image classification**, with a particular emphasis on **modularity and early exit strategies** to improve performance and efficiency.
 
